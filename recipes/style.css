@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(244,244,234);
+}
+
+h1 {
+    text-align: center;
+    font-family: "DejaVu Sans", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo {
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+p, 
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+
+h2 {
+    background-color: orange;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li{
+    text-align: center;
+    font-family: Inconsolata, 'Courier New', Courier, monospace;
+}
+
+.link {
+    text-align: end;
+}
+
+/* elements same in style across all webpages above this line */
+/* elements distinct in style from other webpages below this line */
+
+#h1pilaf {
+    background-color: orangered;
+}
+
+#h1chicken {
+    background-color: green;
+    color: red;
+}
+
+#h1tofu {
+    background-color: red;
+    color: yellow;
+}

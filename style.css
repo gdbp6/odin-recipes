@@ -1,10 +1,14 @@
+h1 {
+    background-color: gold;
+    font-family: 'Times New Roman', Times, serif;
+}
 
 ul {
     text-align: center;
     font-family: "DejaVu Sans", Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.same {
+li .same {
     font-size: 100px;
 }
 
