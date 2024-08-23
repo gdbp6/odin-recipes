@@ -1,0 +1,24 @@
+
+ul {
+    text-align: center;
+    font-family: "DejaVu Sans", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.same {
+    font-size: 100px;
+}
+
+#big-lamb {
+    color: black;
+}
+
+#chicken {
+    background-color: green;
+    color: red;
+}
+
+#tofu {
+    color: yellow;
+    background-color: red;
+    font-weight:800;
+}
