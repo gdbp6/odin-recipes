@@ -1,28 +1,31 @@
-h1 {
+body {
+    background-color: grey;
+}
+
+.box {
+    width: 600px;
+    margin: 150px auto;
+    padding: 18px;
+    background-color: rgb(75, 75, 106);
+}
+
+.title {
     background-color: gold;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 ul {
     text-align: center;
     font-family: "DejaVu Sans", Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
 }
 
-li .same {
-    font-size: 100px;
-}
-
-#big-lamb {
-    color: black;
-}
-
-#chicken {
-    background-color: green;
-    color: red;
-}
-
-#tofu {
-    color: yellow;
-    background-color: red;
-    font-weight:800;
+li {
+    list-style: none;
+    width: 60px;
+    margin: 0 auto 0 35px;
+    padding: 10px;
+    background-color: grey;
+    color: rgb(75, 75, 106);
 }
